@@ -1,0 +1,365 @@
+
+:root {
+  --GobColor01: #a62043;
+  --GobColor02: #691B31;
+  --GobColor03: #dfc8a8;
+  --GobColor04: #be9462;
+  --Color01: #ddcaa2;
+  --Color02: #198754;
+  --blanco: #fff;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+body {
+    background-image: url("../img/base/bg.jpg");
+    overflow-x: hidden;
+    height: 800px;
+    background-size: cover;
+    background-size: 45rem;
+    background-repeat: no-repeat;
+    background-position: 112% 30%;
+    background-attachment: fixed;
+    filter: grayscale(100%);
+  }
+  footer {
+    font-family: 'Montserrat';
+    font-size:15px;
+    color: var(--blanco);
+    background-color:var(--GobColor02);
+    padding:45px 0px 45px 0px;
+    position: relative;
+    width: 100%;
+  }
+h1{
+  padding-top: 50px;
+  animation: 2s anim-lineUp ease-out;
+}
+h2{
+  font-weight: 1000;
+  padding-top: 8px;
+  animation: 2s anim-lineUp ease-out;
+}
+h3{
+  font-size: 20px;
+  color: var(--blanco);
+  font-weight: bold;
+  text-decoration: dashed;
+}
+h4{
+  color: var(--blanco);
+  padding: 10px;
+  font-weight: bold;
+  font-size: 40px;
+}
+h5{
+  color: var(--GobColor01);
+  padding: 10px;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+p{
+  padding: 10px;
+  color: #000;
+  font-weight: 500;
+}
+.divCompleto
+{
+  height: 542px;
+}
+@keyframes anim-lineUp {
+    0% {
+      opacity: 0;
+      transform: translateY(80%);
+    }
+    20% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+  }
+.navbar-gobA{
+    background-color:var(--blanco);
+    font-family: 'Montserrat';
+}
+.navbar-gobA a {
+  color: var(--GobColor02);
+  text-decoration: dashed;
+}
+.navbar-gobA a:hover {
+    color: var(--GobColor04);
+}
+.navbar-gobB {
+    background-color: var(--GobColor04);
+    font-family: 'Montserrat';
+}
+.navbar-gobB a {
+  color:  var(--GobColor02);
+  text-decoration: dashed;
+}
+.navbar-gobB  a:hover {
+  color: var(--GobColor01);
+}
+.slider { 
+    background-color:var(--Color01);
+}
+
+.redes{
+    color: var(--blanco);
+    font-size:45px;
+    padding: 5px,10px;
+}
+.text-enfasis {
+  color: var(--GobColor02);
+  font-size: larger;
+}
+.sinfondo{
+  background-color: rgba(252, 252, 252, 0);
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.gob1 {
+  color: var(--GobColor02);
+  font-size: larger;
+}
+.gob2 {
+  color: var(--GobColor01);
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+.gob3 {
+  color: var(--GobColor03);
+  font-size: larger;
+}
+.gob4 {
+  color: var(--GobColor04);
+  font-size: larger;
+}
+.tapBos {
+  color: var(--GobColor04);
+  font-size: larger;
+}
+.tapBos:hover {
+  color: var(--GobColor03);
+  font-size: larger;
+}
+
+.btnGob {
+  
+  background-color: var(--GobColor01) !important;
+  color: var(--blanco) !important;
+  margin: 35px 0px 10px 0px;
+  padding:20px;
+  border-radius: 10px;
+}
+.btnGob2 {
+  
+  background-color: var(--GobColor04) !important;
+  color: var(--blanco) !important;
+  margin: 0px 0px 10px 0px;
+  padding:5px;
+  width: 70%;
+  border-radius: 10px;
+}
+.btnGob2:hover{
+  background-color: var(--Color01) !important;
+}
+
+.btnHome {
+  color: var(--blanco) !important;
+  background-color: var(--GobColor01) !important;
+  position: relative;
+  font-size: 30px;
+  border-radius: 10px;
+  padding: 10PX;
+  text-decoration: dashed;
+
+}
+.btnHome:hover{
+  background-color: var(--GobColor01) !important;
+}
+
+@media only screen and (min-width: 400px) {
+.eventsNav {
+    position: unset;
+    padding-right: 170px;
+    width: 122%;
+    }
+}
+.divmenu{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(250px, 1fr));
+    gap: 32px;
+    padding: 4% 10% 4% 10% ;
+  }
+
+.divmenu a > img{
+    border-radius:8px;
+    width: 100%;
+    height: auto;
+    box-shadow: 0px 0px 30px #000;
+}
+.iconnMenu{
+  background-color:var(--GobColor01);
+  font-family: 'Montserrat';
+  border-radius:20px;
+  color: var(--blanco);
+  font-weight: bold;
+  text-decoration: dashed;
+}
+.iconnMenu > p{
+  font-size: 150px;
+}
+
+.tabUpe{
+  font-family: 'Montserrat';
+  font-weight: bold;
+}
+
+.subTitle{
+  background-color: var(--Color02);
+  font-weight: bold;
+  font-size: 20px;
+  color: var(--blanco);
+}
+.zoom{
+    border-radius: 40px;
+    transition: all .3s ease-in-out;
+}
+
+.zoom:hover {
+    transform: scale(1.2);
+    box-shadow: 0px 0px 30px #000;
+    border-radius: 10px;
+} 
+
+/* -------------------------- Listas --------------------------*/
+ol {
+  padding: 5px;
+  list-style-type: disc;
+}
+ol > li{
+  padding: 10px;
+  border-bottom:2px solid;
+}
+
+
+/* -------------------------- Listas --------------------------*/
+/* -------------------------- Barra lateral --------------------------*/
+::-webkit-scrollbar {
+  width: 12px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: var(--GobColor02);
+  background-image: -webkit-linear-gradient(45deg,rgba(255, 255, 255, .2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%, transparent 75%, transparent);
+}
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+  background-color: var(--blanco);
+}
+/* -------------------------- Barra lateral --------------------------*/
+
+/* -------------------------- Linea de tiempo --------------------------*/
+.timeline {
+  position: relative;
+  padding: 0;
+  list-style: none;
+}
+.timeline > li:after{
+  display: table;
+  content: " ";
+  clear: both;
+}
+.timeline > li .timeline-panel {
+  position: relative;
+  float: right;
+  width: 100%;
+  padding: 0 20px 0 100px;
+  text-align: left;
+}
+.timeline > li .timeline-image {
+  position: absolute;
+  z-index: 100;
+  left: 0;
+  width: 80px;
+  height: 80px;
+  margin-left: 0;
+  color: var(--blanco);
+  border: 7px solid var(--GobColor04);
+  border-radius: 100%;
+  background-color: var(--GobColor01);
+}
+.timeline > li .timeline-image h4, .timeline > li .timeline-image .h4 {
+  font-size: 10px;
+  line-height: 14px;
+  margin-top: 12px;
+}
+.timeline .timeline-heading h4, .timeline .timeline-heading .h4 {
+  margin-top: 0;
+  color: inherit;
+}
+
+@media (min-width: 768px) {
+  .timeline:before {
+    left: 50%;
+  }
+  .timeline > li {
+    min-height: 100px;
+    margin-bottom: 100px;
+  }
+  .timeline > li .timeline-panel {
+    float: left;
+    width: 41%;
+    padding: 0 20px 20px 30px;
+    text-align: right;
+  }
+  .timeline > li .timeline-image {
+    left: 50%;
+    width: 100px;
+    height: 100px;
+    margin-left: -50px;
+  }
+  .timeline > li .timeline-image h4, .timeline > li .timeline-image .h4 {
+    font-size: 13px;
+    line-height: 18px;
+    margin-top: 16px;
+  }
+  .timeline > li.timeline-inverted > .timeline-panel {
+    float: right;
+    padding: 0 30px 20px 20px;
+    text-align: left;
+  }
+}
+
+@media (min-width: 1200px) {
+  .timeline > li {
+    min-height: 170px;
+  }
+  .timeline > li .timeline-panel {
+    padding: 0 20px 20px 100px;
+  }
+  .timeline > li .timeline-image {
+    width: 170px;
+    height: 170px;
+    margin-left: -85px;
+  }
+  .timeline > li .timeline-image h4, .timeline > li .timeline-image .h4 {
+    margin-top: 40px;
+  }
+  .timeline > li.timeline-inverted > .timeline-panel {
+    padding: 0 100px 20px 20px;
+  }
+}
+/* -------------------------- BLinea de tiempo --------------------------*/

@@ -1,0 +1,303 @@
+[
+{"name":"Estado de Actividades",
+"2023":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2023/1/edoAct.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2023/2/edoAct.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2023/3/edoAct.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2023/4/edoAct.pdf"}
+],
+"2022":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2022/1/edoAct.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2022/2/edoAct.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2022/3/edoAct.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2022/4/edoAct.pdf"}
+],
+"2021":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2021/1/edoAct.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2021/2/edoAct.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2021/3/edoAct.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2021/4/edoAct.pdf"}
+],
+"2020":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2020/1/edoAct.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2020/2/edoAct.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2020/3/edoAct.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2020/4/edoAct.pdf"}
+],
+"2019":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2019/1/edoAct.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2019/2/edoAct.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2019/3/edoAct.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2019/4/edoAct.pdf"}
+],
+"2018":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2018/1/edoAct.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2018/2/edoAct.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2018/3/edoAct.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2018/4/edoAct.pdf"}
+]},
+{"name":"Estado Analítico del Activo",
+"2023":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2023/1/edoAnalitico.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2023/2/edoAnalitico.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2023/3/edoAnalitico.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2023/4/edoAnalitico.pdf"}
+],
+"2022":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2022/1/edoAnalitico.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2022/2/edoAnalitico.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2022/3/edoAnalitico.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2022/4/edoAnalitico.pdf"}
+],
+"2021":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2021/1/edoAnalitico.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2021/2/edoAnalitico.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2021/3/edoAnalitico.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2021/4/edoAnalitico.pdf"}
+],
+"2020":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2020/1/edoAnalitico.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2020/2/edoAnalitico.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2020/3/edoAnalitico.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2020/4/edoAnalitico.pdf"}
+],
+"2019":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2019/1/edoAnalitico.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2019/2/edoAnalitico.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2019/3/edoAnalitico.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2019/4/edoAnalitico.pdf"}
+],
+"2018":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2018/1/edoAnalitico.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2018/2/edoAnalitico.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2018/3/edoAnalitico.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2018/4/edoAnalitico.pdf"}
+]},
+{"name":"Estado Analítico de la Deuda y Otros Pasivos",
+"2023":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2023/1/edoAnaliticoD.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2023/2/edoAnaliticoD.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2023/3/edoAnaliticoD.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2023/4/edoAnaliticoD.pdf"}
+],
+"2022":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2022/1/edoAnaliticoD.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2022/2/edoAnaliticoD.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2022/3/edoAnaliticoD.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2022/4/edoAnaliticoD.pdf"}
+],
+"2021":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2021/1/edoAnaliticoD.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2021/2/edoAnaliticoD.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2021/3/edoAnaliticoD.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2021/4/edoAnaliticoD.pdf"}
+],
+"2020":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2020/1/edoAnaliticoD.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2020/2/edoAnaliticoD.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2020/3/edoAnaliticoD.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2020/4/edoAnaliticoD.pdf"}
+],
+"2019":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2019/1/edoAnaliticoD.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2019/2/edoAnaliticoD.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2019/3/edoAnaliticoD.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2019/4/edoAnaliticoD.pdf"}
+],
+"2018":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2018/1/edoAnaliticoD.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2018/2/edoAnaliticoD.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2018/3/edoAnaliticoD.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2018/4/edoAnaliticoD.pdf"}
+]},
+{"name":"Estado de Situación Financiera",
+"2023":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2023/1/edoSFinanciera.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2023/2/edoSFinanciera.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2023/3/edoSFinanciera.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2023/4/edoSFinanciera.pdf"}
+],
+"2022":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2022/1/edoSFinanciera.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2022/2/edoSFinanciera.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2022/3/edoSFinanciera.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2022/4/edoSFinanciera.pdf"}
+],
+"2021":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2021/1/edoSFinanciera.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2021/2/edoSFinanciera.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2021/3/edoSFinanciera.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2021/4/edoSFinanciera.pdf"}
+],
+"2020":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2020/1/edoSFinanciera.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2020/2/edoSFinanciera.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2020/3/edoSFinanciera.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2020/4/edoSFinanciera.pdf"}
+],
+"2019":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2019/1/edoSFinanciera.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2019/2/edoSFinanciera.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2019/3/edoSFinanciera.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2019/4/edoSFinanciera.pdf"}
+],
+"2018":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2018/1/edoSFinanciera.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2018/2/edoSFinanciera.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2018/3/edoSFinanciera.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2018/4/edoSFinanciera.pdf"}
+]},
+{"name":"Estado de Flujos de Efectivo",
+"2023":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2023/1/edoFlujosE.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2023/2/edoFlujosE.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2023/3/edoFlujosE.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2023/4/edoFlujosE.pdf"}
+],
+"2022":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2022/1/edoFlujosE.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2022/2/edoFlujosE.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2022/3/edoFlujosE.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2022/4/edoFlujosE.pdf"}
+],
+"2021":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2021/1/edoFlujosE.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2021/2/edoFlujosE.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2021/3/edoFlujosE.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2021/4/edoFlujosE.pdf"}
+],
+"2020":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2020/1/edoFlujosE.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2020/2/edoFlujosE.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2020/3/edoFlujosE.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2020/4/edoFlujosE.pdf"}
+],
+"2019":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2019/1/edoFlujosE.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2019/2/edoFlujosE.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2019/3/edoFlujosE.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2019/4/edoFlujosE.pdf"}
+],
+"2018":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2018/1/edoFlujosE.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2018/2/edoFlujosE.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2018/3/edoFlujosE.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2018/4/edoFlujosE.pdf"}
+]},
+{"name":"Estado de Variación en la Hacienda Pública",
+"2023":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2023/1/edoVariacionHP.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2023/2/edoVariacionHP.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2023/3/edoVariacionHP.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2023/4/edoVariacionHP.pdf"}
+],
+"2022":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2022/1/edoVariacionHP.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2022/2/edoVariacionHP.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2022/3/edoVariacionHP.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2022/4/edoVariacionHP.pdf"}
+],
+"2021":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2021/1/edoVariacionHP.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2021/2/edoVariacionHP.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2021/3/edoVariacionHP.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2021/4/edoVariacionHP.pdf"}
+],
+"2020":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2020/1/edoVariacionHP.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2020/2/edoVariacionHP.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2020/3/edoVariacionHP.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2020/4/edoVariacionHP.pdf"}
+],
+"2019":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2019/1/edoVariacionHP.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2019/2/edoVariacionHP.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2019/3/edoVariacionHP.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2019/4/edoVariacionHP.pdf"}
+],
+"2018":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2018/1/edoVariacionHP.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2018/2/edoVariacionHP.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2018/3/edoVariacionHP.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2018/4/edoVariacionHP.pdf"}
+]},
+{"name":"Informe de Pasivos Contingentes",
+"2023":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2023/1/InfPasivos.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2023/2/InfPasivos.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2023/3/InfPasivos.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2023/4/InfPasivos.pdf"}
+],
+"2022":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2022/1/InfPasivos.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2022/2/InfPasivos.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2022/3/InfPasivos.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2022/4/InfPasivos.pdf"}
+],
+"2021":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2021/1/InfPasivos.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2021/2/InfPasivos.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2021/3/InfPasivos.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2021/4/InfPasivos.pdf"}
+],
+"2020":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2020/1/InfPasivos.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2020/2/InfPasivos.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2020/3/InfPasivos.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2020/4/InfPasivos.pdf"}
+],
+"2019":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2019/1/InfPasivos.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2019/2/InfPasivos.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2019/3/InfPasivos.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2019/4/InfPasivos.pdf"}
+],
+"2018":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2018/1/InfPasivos.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2018/2/InfPasivos.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2018/3/InfPasivos.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2018/4/InfPasivos.pdf"}
+]},
+{"name":"Notas a los Estados Financieros",
+"2023":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2023/1/NotaEdoF.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2023/2/NotaEdoF.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2023/3/NotaEdoF.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2023/4/NotaEdoF.pdf"}
+],
+"2022":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2022/1/NotaEdoF.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2022/2/NotaEdoF.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2022/3/NotaEdoF.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2022/4/NotaEdoF.pdf"}
+],
+"2021":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2021/1/NotaEdoF.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2021/2/NotaEdoF.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2021/3/NotaEdoF.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2021/4/NotaEdoF.pdf"}
+],
+"2020":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2020/1/NotaEdoF.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2020/2/NotaEdoF.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2020/3/NotaEdoF.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2020/4/NotaEdoF.pdf"}
+],
+"2019":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2019/1/NotaEdoF.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2019/2/NotaEdoF.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2019/3/NotaEdoF.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2019/4/NotaEdoF.pdf"}
+],
+"2018":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2018/1/NotaEdoF.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2018/2/NotaEdoF.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2018/3/NotaEdoF.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2018/4/NotaEdoF.pdf"}
+]},
+{"name":"Estado de Cambios en la Situación Financiera",
+"ECSF":[
+    {"Trimestre":"Enlace ","url":"/armonizacionContable/pdf/2023/edoCambiosSF.pdf"}
+]
+}
+]

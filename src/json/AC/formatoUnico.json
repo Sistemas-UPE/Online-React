@@ -1,0 +1,39 @@
+[
+{"name":"EJERCICIOS",
+"2023":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2023/1/formatoUnico.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2023/2/formatoUnico.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2023/3/formatoUnico.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2023/4/formatoUnico.pdf"}
+],
+"2022":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2022/1/formatoUnico.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2022/2/formatoUnico.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2022/3/formatoUnico.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2022/4/formatoUnico.pdf"}
+],
+"2021":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2021/1/formatoUnico.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2021/2/formatoUnico.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2021/3/formatoUnico.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2021/4/formatoUnico.pdf"}
+],
+"2020":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2020/1/formatoUnico.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2020/2/formatoUnico.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2020/3/formatoUnico.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2020/4/formatoUnico.pdf"}
+],
+"2019":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2019/1/formatoUnico.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2019/2/formatoUnico.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2019/3/formatoUnico.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2019/4/formatoUnico.pdf"}
+],
+"2018":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2018/1/formatoUnico.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2018/2/formatoUnico.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2018/3/formatoUnico.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2018/4/formatoUnico.pdf"}
+]}
+]

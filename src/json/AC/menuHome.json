@@ -1,0 +1,13 @@
+[
+    {"u1":"/AC/InformacionContable/","u2":"INFORMACIÓN CONTABLE","u3":"FcSalesPerformance"},
+    {"u1":"/AC/InformacionPresupuestaria/","u2":"INFORMACIÓN PRESUPUESTARIA","u3":"FcStatistics"},
+    {"u1":"/AC/InformacionProgramatica/","u2":"INFORMACIÓN PROGRAMÁTICA","u3":"FcOvertime"},
+    {"u1":"/AC/InformacionLeyDFinansiera/","u2":"LEY DE DISCIPLINA FINANCIERA","u3":"FcNews"},
+    {"u1":"/AC/Inventarios/","u2":"INVENTARIO DE BIENES","u3":"FcSmartphoneTablet"},
+    {"u1":"/AC/CuentaPublica/","u2":"CUENTA PÚBLICA","u3":"FcLibrary"},
+    {"u1":"/AC/Normas/","u2":"NORMAS (TÍTULO QUINTO LGCG)","u3":"FcRules"},
+    {"u1":"armonizacionContable/pdf/2024/tbCostos.pdf","u2":"TABULADOR DE COSTOS","u3":"FcDataSheet"},
+    {"u1":"/AC/FormatoUnico/","u2":"FORMATO ÚNICO","u3":"FcDiploma2"},
+    {"u1":"/AC/OtrasObligaciones/","u2":"OTRAS OBLIGACIONES LGCG","u3":"FcFeedIn"},
+    {"u1":"/AC/Transparencia/","u2":"Artículo 69 (LTyAIP)","u3":"FcDiploma1"}
+]

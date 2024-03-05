@@ -1,0 +1,26 @@
+[
+    {"name":"2015",
+    "INSTRUMENTOS":[
+        {"Trimestre":"Cuadro General de Clasificación Archivística","url":"/archivo/2015/CGCA.pdf"}
+    ]},
+    {"name":"2022",
+    "PADA":[
+        {"Trimestre":"ENLACE","url":"/archivo/2022/PADA.pdf"}
+    ],
+    "RESULTADOS":[
+        {"Trimestre":"ENLACE","url":"/archivo/2022/RESULTADOS.pdf"}
+
+    ]},
+    {"name":"2023",
+    "PADA":[
+        {"Trimestre":"ENLACE","url":"/archivo/2023/PADA.pdf"}
+    ],
+    "RESULTADOS":[
+        {"Trimestre":"ENLACE","url":"/archivo/2023/RESULTADOS.pdf"}
+
+    ]},
+    {"name":"2024",
+    "PADA":[
+        {"Trimestre":"ENLACE","url":"/archivo/2024/PADA.pdf"}
+    ]}
+]

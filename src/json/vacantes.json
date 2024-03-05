@@ -1,0 +1,4 @@
+[
+    {"status":"actived","url" : "img/menu/admin.png", "title" : "PERSONAL ADMINISTRATIVO", "conten" : "Consulta las vacantes que están disponibles para formar parte de nuestro equipo de trabajo como administrativo.", "more" : "PDF/vacantes/C_2024.pdf"},
+    {"status":"disabled","url" : "img/menu/doce.png", "title" : "PERSONAL DOCENTE", "conten" : "Consulta las vacantes que están disponibles para formar parte de nuestro equipo de academicos.", "more" : "PDF/vacantes/CD_2024.pdf"}
+]

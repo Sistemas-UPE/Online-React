@@ -1,0 +1,27 @@
+[
+{"name":"EJERCICIOS",
+"2023":[
+    {"Trimestre":"INVENTARIO DE BIENES INMUEBLES","url":"/armonizacionContable/pdf/2023/inventarioBI.pdf"},
+    {"Trimestre":"INVENTARIO DE BIENES MUEBLES","url":"/armonizacionContable/pdf/2023/inventarioBM.pdf"}
+],
+"2022":[
+    {"Trimestre":"INVENTARIO DE BIENES INMUEBLES","url":"/armonizacionContable/pdf/2022/inventarioBI.pdf"},
+    {"Trimestre":"INVENTARIO DE BIENES MUEBLES","url":"/armonizacionContable/pdf/2022/inventarioBM.pdf"}
+],
+"2021":[
+    {"Trimestre":"INVENTARIO DE BIENES INMUEBLES","url":"/armonizacionContable/pdf/2021/inventarioBI.pdf"},
+    {"Trimestre":"INVENTARIO DE BIENES MUEBLES","url":"/armonizacionContable/pdf/2021/inventarioBM.pdf"}
+],
+"2020":[
+    {"Trimestre":"INVENTARIO DE BIENES INMUEBLES","url":"/armonizacionContable/pdf/2020/inventarioBI.pdf"},
+    {"Trimestre":"INVENTARIO DE BIENES MUEBLES","url":"/armonizacionContable/pdf/2020/inventarioBM.pdf"}
+],
+"2019":[
+    {"Trimestre":"INVENTARIO DE BIENES INMUEBLES","url":"/armonizacionContable/pdf/2019/inventarioBI.pdf"},
+    {"Trimestre":"INVENTARIO DE BIENES MUEBLES","url":"/armonizacionContable/pdf/2019/inventarioBM.pdf"}
+],
+"2018":[
+    {"Trimestre":"INVENTARIO DE BIENES INMUEBLES","url":"/armonizacionContable/pdf/2018/inventarioBI.pdf"},
+    {"Trimestre":"INVENTARIO DE BIENES MUEBLES","url":"/armonizacionContable/pdf/2018/inventarioBM.pdf"}
+]}
+]

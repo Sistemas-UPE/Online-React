@@ -1,0 +1,78 @@
+[
+    {"name":"2015",
+    "INSTRUMENTOS":[
+        {"Trimestre":"Catálogo de Disposición Documental","url":"/archivo/2015/CDD.pdf"},
+        {"Trimestre":"Cuadro General de Clasificación Archivística","url":"/archivo/2015/CGCA.pdf"},
+        {"Trimestre":"Guía de Archivo Documental","url":"/archivo/2015/GAD.pdf"},
+        {"Trimestre":"Inventario Documental","url":"/archivo/2015/ID.pdf"}
+    ]},
+    {"name":"2016",
+    "INSTRUMENTOS":[
+        {"Trimestre":"Catálogo de Disposición Documental","url":"/archivo/2016/CDD.pdf"},
+        {"Trimestre":"Cuadro General de Clasificación Archivística","url":"/archivo/2016/CGCA.pdf"},
+        {"Trimestre":"Guía de Archivo Documental","url":"/archivo/2016GAD.pdf"},
+        {"Trimestre":"Inventario Documental","url":"/archivo/2016/ID.pdf"}
+    ]},
+    {"name":"2017",
+    "INSTRUMENTOS":[
+        {"Trimestre":"Catálogo de Disposición Documental","url":"/archivo/2017/CDD.pdf"},
+        {"Trimestre":"Cuadro General de Clasificación Archivística","url":"/archivo/2017/CGCA.pdf"},
+        {"Trimestre":"Guía de Archivo Documental","url":"/archivo/2017/GAD.pdf"},
+        {"Trimestre":"Inventario Documental","url":"/archivo/2017/ID.pdf"}
+    ]},
+    {"name":"2018",
+    "INSTRUMENTOS":[
+        {"Trimestre":"Catálogo de Disposición Documental","url":"/archivo/2018/CDD.pdf"},
+        {"Trimestre":"Cuadro General de Clasificación Archivística","url":"/archivo/2018/CGCA.pdf"},
+        {"Trimestre":"Guía de Archivo Documental","url":"/archivo/2018/GAD.pdf"},
+        {"Trimestre":"Inventario Documental","url":"/archivo/2018/ID.pdf"}
+    ]},
+    {"name":"2019",
+    "INSTRUMENTOS":[
+        {"Trimestre":"Catálogo de Disposición Documental","url":"/archivo/2019/CDD.pdf"},
+        {"Trimestre":"Cuadro General de Clasificación Archivística","url":"/archivo/2019/CGCA.pdf"},
+        {"Trimestre":"Guía de Archivo Documental","url":"/archivo/2019/GAD.pdf"},
+        {"Trimestre":"Inventario Documental","url":"/archivo/2019/ID.pdf"}
+    ]},
+    {"name":"2020",
+    "INSTRUMENTOS":[
+        {"Trimestre":"Catálogo de Disposición Documental","url":"/archivo/2020/CDD.pdf"},
+        {"Trimestre":"Cuadro General de Clasificación Archivística","url":"/archivo/2020/CGCA.pdf"},
+        {"Trimestre":"Guía de Archivo Documental","url":"/archivo/20/GAD.pdf"},
+        {"Trimestre":"Inventario Documental","url":"/archivo/2020/ID.pdf"}
+    ]},
+    {"name":"2021",
+    "INSTRUMENTOS":[
+        {"Trimestre":"Catálogo de Disposición Documental","url":"/archivo/2021/CDD.pdf"},
+        {"Trimestre":"Cuadro General de Clasificación Archivística","url":"/archivo/2021/CGCA.pdf"},
+        {"Trimestre":"Guía de Archivo Documental","url":"/archivo/2021/GAD.pdf"},
+        {"Trimestre":"Inventario Documental","url":"/archivo/2021/ID.pdf"}
+    ]},
+    {"name":"2022",
+    "PADA":[
+        {"Trimestre":"ENLACE","url":"/archivo/2022/PADA.pdf"}
+    ],
+    "INSTRUMENTOS":[
+        {"Trimestre":"Catálogo de Disposición Documental","url":"/archivo/2022/CDD.pdf"},
+        {"Trimestre":"Cuadro General de Clasificación Archivística","url":"/archivo/2022/CGCA.pdf"},
+        {"Trimestre":"Guía de Archivo Documental","url":"/archivo/2022/GAD.pdf"},
+        {"Trimestre":"Inventario Documental","url":"/archivo/2022/ID.pdf"}
+    ],
+    "RESULTADOS":[
+        {"Trimestre":"ENLACE","url":"/archivo/2022/RESULTADOS.pdf"}
+
+    ]},
+    {"name":"2023",
+    "PADA":[
+        {"Trimestre":"ENLACE","url":"/archivo/2023/RESULTADOS.pdf"}
+    ],
+    "INSTRUMENTOS":[
+        {"Trimestre":"Catálogo de Disposición Documental","url":"/archivo/2023/CDD.pdf"},
+        {"Trimestre":"Cuadro General de Clasificación Archivística","url":"/archivo/2023/CGCA.pdf"},
+        {"Trimestre":"Guía de Archivo Documental","url":"/archivo/2023/GAD.pdf"},
+        {"Trimestre":"Inventario Documental","url":"/archivo/2023/ID.pdf"}
+    ],
+    "RESULTADOS":[
+        {"Trimestre":"ENLACE","url":"/archivo/2018/RESULTADOS.pdf"}
+    ]}
+]

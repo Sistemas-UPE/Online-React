@@ -1,0 +1,145 @@
+[
+{"name":"Gasto por Categoría Programática",
+"2023":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2023/1/GastoCatProg.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2023/2/GastoCatProg.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2023/3/GastoCatProg.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2023/4/GastoCatProg.pdf"}
+],
+"2022":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2022/1/GastoCatProg.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2022/2/GastoCatProg.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2022/3/GastoCatProg.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2022/4/GastoCatProg.pdf"}
+],
+"2021":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2021/1/GastoCatProg.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2021/2/GastoCatProg.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2021/3/GastoCatProg.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2021/4/GastoCatProg.pdf"}
+],
+"2020":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2020/1/GastoCatProg.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2020/2/GastoCatProg.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2020/3/GastoCatProg.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2020/4/GastoCatProg.pdf"}
+],
+"2019":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2019/1/GastoCatProg.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2019/2/GastoCatProg.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2019/3/GastoCatProg.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2019/4/GastoCatProg.pdf"}
+],
+"2018":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2018/1/GastoCatProg.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2018/2/GastoCatProg.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2018/3/GastoCatProg.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2018/4/GastoCatProg.pdf"}
+]},
+{"name":"Indicadores de resultados",
+"2023":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2023/1/Metas.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2023/2/Metas.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2023/3/Metas.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2023/4/Metas.pdf"}
+],
+"2022":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2022/1/Metas.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2022/2/Metas.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2022/3/Metas.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2022/4/Metas.pdf"}
+],
+"2021":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2021/1/Metas.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2021/2/Metas.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2021/3/Metas.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2021/4/Metas.pdf"}
+],
+"2020":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2020/1/Metas.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2020/2/Metas.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2020/3/Metas.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2020/4/Metas.pdf"}
+],
+"2019":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2019/1/Metas.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2019/2/Metas.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2019/3/Metas.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2019/4/Metas.pdf"}
+],
+"2018":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2018/1/Metas.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2018/2/Metas.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2018/3/Metas.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2018/4/Metas.pdf"}
+]},
+{"name":"Programas y Proyectos de Inversión",
+"2023":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2023/1/ProgramasProyInv.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2023/2/ProgramasProyInv.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2023/3/ProgramasProyInv.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2023/4/ProgramasProyInv.pdf"}
+],
+"2022":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2022/1/ProgramasProyInv.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2022/2/ProgramasProyInv.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2022/3/ProgramasProyInv.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2022/4/ProgramasProyInv.pdf"}
+],
+"2021":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2021/1/ProgramasProyInv.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2021/2/ProgramasProyInv.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2021/3/ProgramasProyInv.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2021/4/ProgramasProyInv.pdf"}
+],
+"2020":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2020/1/ProgramasProyInv.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2020/2/ProgramasProyInv.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2020/3/ProgramasProyInv.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2020/4/ProgramasProyInv.pdf"}
+],
+"2019":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2019/1/ProgramasProyInv.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2019/2/ProgramasProyInv.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2019/3/ProgramasProyInv.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2019/4/ProgramasProyInv.pdf"}
+],
+"2018":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2018/1/ProgramasProyInv.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2018/2/ProgramasProyInv.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2018/3/ProgramasProyInv.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2018/4/ProgramasProyInv.pdf"}
+]},
+{"name":"Matriz de indicadores para Resultados",
+
+"2023":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2023/1/Metas.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2023/2/Metas.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2023/3/Metas.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2023/4/Metas.pdf"},
+    {"Trimestre":"Resultados","url":"/armonizacionContable/pdf/2023/MatrizIR.pdf"}
+],
+"2022":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2022/1/Metas.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2022/2/Metas.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2022/3/Metas.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2022/4/Metas.pdf"},
+    {"Trimestre":"Resultados","url":"/armonizacionContable/pdf/2022/MatrizIR.pdf"}
+],
+"2021":[
+    {"Trimestre":"Primer Trimestre","url":"/armonizacionContable/pdf/2021/1/Metas.pdf"},
+    {"Trimestre":"Segundo Trimestre","url":"/armonizacionContable/pdf/2021/2/Metas.pdf"},
+    {"Trimestre":"Tercer Trimestre","url":"/armonizacionContable/pdf/2021/3/Metas.pdf"},
+    {"Trimestre":"Cuarto Trimestre","url":"/armonizacionContable/pdf/2021/4/Metas.pdf"},
+    {"Trimestre":"Resultados","url":"/armonizacionContable/pdf/2021/MatrizIR.pdf"}
+],
+"2020":[
+    {"Trimestre":"Resultados","url":"/armonizacionContable/pdf/2020/MatrizIR.pdf"}
+],
+"2019":[
+    {"Trimestre":"Resultados","url":"/armonizacionContable/pdf/2019/MatrizIR.pdf"}
+],
+"2018":[
+    {"Trimestre":"Resultados","url":"/armonizacionContable/pdf/2018/MatrizIR.pdf"}
+]}
+]
