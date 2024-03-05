@@ -1,6 +1,6 @@
 # Web Oficial UPE
 Dentro del presente repositorio se almacena la versión 2.3 de la página institucional, la cual fue desarrollada con REACT.
-##Dependencias
+## Dependencias
 * "bootstrap": "^5.3.2",
 * "npm": "^10.3.0",
 * "react": "^18.2.0",
